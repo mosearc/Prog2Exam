@@ -1,0 +1,24 @@
+101, Puttgarden-Rodby   ,15          ,10
+102, Rostock-Gedser     , 20         ,10
+103, Rostock-Gedser & Oresund, 25    ,10
+111, Rodby-Puttgarden   , 15          ,10
+112, Gedser-Rostock     , 20         ,10
+113, Gedser-Rostock & Oresund, 25    ,10
+201, Puttgarden-Rodby   ,51          ,22 ,40
+202, Rostock-Gedser     , 60         ,22 ,40
+203, Rostock-Gedser & Oresund, 65    ,22 ,40
+204, Rodby-Puttgarden   ,51          ,25 ,40
+205, Gedser-Rostock     , 60         ,25 ,40
+206, Gedser-Rostock & Oresund, 65    ,25 ,40
+211, Puttgarden-Rodby   ,71          ,22 ,140
+212, Rostock-Gedser     , 80         ,22 ,140
+213, Rostock-Gedser & Oresund, 85    ,22 ,140
+214, Rodby-Puttgarden   ,71          ,25 ,140
+215, Gedser-Rostock     , 80         ,25 ,140
+216, Gedser-Rostock & Oresund, 85    ,25 ,140
+301, Puttgarden-Rodby   ,103         ,22 ,50
+302, Rostock-Gedser     , 123         ,22 ,50
+303, Rostock-Gedser & Oresund, 147    ,22 ,50
+304, Rodby-Puttgarden   ,103         ,25 ,50
+305, Gedser-Rostock     , 123         ,25 ,50
+306, Gedser-Rostock & Oresund, 147   ,25 ,50
