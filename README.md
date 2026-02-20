@@ -1,2 +1,2 @@
 # Prog2Exam
-4 hous exam for computer programming 2
+Final Exam for UNITN course "computer programming 2" - Subject: Java, OOP 
